@@ -1,7 +1,7 @@
 function Home(){
     return(
         <h1>
-            Olá Tab News
+            Olá Tab News 😎
         </h1>
     )
 }
