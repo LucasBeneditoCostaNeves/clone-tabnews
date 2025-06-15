@@ -1,9 +1,9 @@
-function Home(){
-    return(
-        <h1>
-            Olá Tab News 😎
-        </h1>
-    )
+function Home() {
+  return <h1>Olá Tab News 😎</h1>;
 }
 
-export default Home 
+function Home2() {
+  console.log("Lucas");
+}
+
+export default Home;
